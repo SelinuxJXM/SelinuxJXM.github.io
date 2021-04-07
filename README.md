@@ -1,1 +1,1 @@
-# SelinuxJXM.github.io
+# SelinuxJ.github.io
